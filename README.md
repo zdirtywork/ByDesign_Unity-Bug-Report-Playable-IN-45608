@@ -1,4 +1,8 @@
-# Unity-Bug-Report-Playable-IN-45608
+# [By Design] Unity-Bug-Report-Playable-IN-45608
+
+**Unity has stated that this was intentional by design.**
+> Resolution Notes: Using a transform stream handle on a humanoid character limits the transform to what a humanoid can do, therefore scaling isn't possible.
+
 
 ## About this issue
 
